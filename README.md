@@ -1,0 +1,1 @@
+# motion_history_image
